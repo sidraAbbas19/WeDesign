@@ -1,0 +1,17 @@
+.form-group{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 20px 60px;
+}
+/* .imageArea{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(250px, 400px));
+    justify-content: space-around;
+    width: 900px;
+    height: 500px;
+} */
+.box{
+    width: 200px;
+    height: 200px;
+}
